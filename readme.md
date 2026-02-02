@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Siva Prasanth</h1>   
-<h3 align="center">🚀 BCA Student | Full-Stack Dev | Building real-world tech 🔧</h3> 
+<h3 align="center">🚀 B. TECT IT Student | Full-Stack Dev | Building real-world tech 🔧</h3> 
   
 💡 I love coding systems that matter – from smart parking to AI-based assistants. Currently diving deep into **Backend Development**, **AI**, and cloud DB tools like **Supabase** 
 🔧 I've built projects like **Parking Assistant**, **Scholarship Finder**, and **Emergency Route Optimizer** – all focused on functionality, real use-cases, and clean UI/UX.  
